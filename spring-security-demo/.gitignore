@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+spring-security-demo/mvnw.cmd
+spring-security-demo/mvnw
+spring-security-demo/.mvn/wrapper/maven-wrapper.properties
+spring-security-demo/.gitignore
